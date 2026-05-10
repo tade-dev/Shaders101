@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		1E1BA2E62FB0C03C00E262FC /* Shaders101.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shaders101.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1E1BA2E62FB0C03C00E262FC /* Shaders101.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Shaders101.app; path = /Users/bstar/Documents/development/apps/swift/Shaders101/build/Debug/Shaders101.app; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				1E1BA2E82FB0C03C00E262FC /* Shaders101 */,
-				1E1BA2E72FB0C03C00E262FC /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		1E1BA2E72FB0C03C00E262FC /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				1E1BA2E62FB0C03C00E262FC /* Shaders101.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 1E1BA2DD2FB0C03C00E262FC;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 1E1BA2E72FB0C03C00E262FC /* Products */;
+			productRefGroup = 1E1BA2DD2FB0C03C00E262FC;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
